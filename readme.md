@@ -1,0 +1,1 @@
+Detailed documentation is provided, including installation, configuration, and usage instructions
